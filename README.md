@@ -14,7 +14,7 @@ Buttons:
 - [x] Restarts Vue server. (Grey if 'Volar' extension is not installed)
 
 
-![feature image](images/feature.png)
+![feature image](https://github.com/fluffychacham/toolbar-vscode-extension/blob/master/images/feature.png)
 
 ## Known Issues
 
