@@ -1,4 +1,4 @@
-# Toolbar README
+# Toolbar VSCode Extension
 
 A set of frequently used buttons added to the status bar for easy access. Based on [Adam's toolbar extension](https://marketplace.visualstudio.com/items?itemName=AdamAnand.adamstool).
 
@@ -16,8 +16,6 @@ Buttons:
 
 ![feature image](images/feature.png)
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
-
 ## Known Issues
 
 No known issues.
@@ -30,10 +28,5 @@ Initial release
 
 ---
 
-## Following extension guidelines
-
-Ensure that you've read through the extensions guidelines and follow the best practices for creating your extension.
-
-* [Extension Guidelines](https://code.visualstudio.com/api/references/extension-guidelines)
 
 **Enjoy!**
