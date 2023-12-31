@@ -1,16 +1,24 @@
 {
 	"name": "toolbar-vscode-extension",
+	"author": {
+		"name": "fluffychacham",
+		"email": "chamtejido@gmail.com"
+	},
 	"displayName": "Toolbar",
 	"description": "A set of frequently used buttons added to the status bar for easy access.",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.85.0"
 	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/fluffychacham/toolbar-vscode-extension.git"
+	},
 	"categories": [
 		"Other"
 	],
 	"activationEvents": [
-		"*"
+		"onStartupFinished"
 	],
 	"main": "./out/extension.js",
 	"contributes": {
